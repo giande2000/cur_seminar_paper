@@ -1,15 +1,88 @@
-\documentclass{article}
+\documentclass[12pt, a4paper]{article}
 
-\title{Seminar Paper Title}
-\author{Gianluca}
-\date{\today}
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[a4paper, margin=2.5cm]{geometry} % Standard margins
+\usepackage{setspace} % Line spacing
+\usepackage{graphicx} % For images
+\usepackage{csquotes} % Recommended for biblatex
+\usepackage[style=apa, backend=biber]{biblatex} % APA citations
+\usepackage[acronym, toc]{glossaries} % For glossary/abbreviations
+\usepackage[hidelinks]{hyperref} % Clickable links in TOC and citations
+
+% --- Configuration ---
+\addbibresource{literature.bib} % Link bibliography file
+\onehalfspacing % 1.5 Line spacing (common for seminar papers)
+\makeglossaries % Generate the glossary
+
+% --- Glossary Entries (Example) ---
+\newacronym{ux}{UX}{User Experience}
+\newacronym{ai}{AI}{Artificial Intelligence}
 
 \begin{document}
 
-\maketitle
+% --- Title Page ---
+\begin{titlepage}
+    \centering
+    % Logo
+    \includegraphics[width=0.6\textwidth]{images/thiRGB.jpg}
+    \vspace{2cm}
+    
+    % Course Name
+    {\scshape\Large Critical UX Reflections - UXDM\_CUR \par}
+    \vspace{1.5cm}
+    
+    % Title
+    {\huge\bfseries Cultural Appropriation in UX Design \par}
+    \vspace{2cm}
+    
+    % Author
+    {\Large\bfseries Gianluca Decaro \par}
+    \vfill
+    
+    % Professor and Date
+    \large
+    Professor: Prof. Dr. Laura Crompton\par
+    \vspace{0.5cm}
+    \today
+\end{titlepage}
 
+% --- AI Disclaimer ---
+\thispagestyle{empty} % No page number on this page
+\vspace*{5cm} % Vertical spacing to center it visually
+\section*{Note on the Use of Artificial Intelligence}
+In this work, artificial intelligence tools were used solely for grammatical error correction and stylistic refinement. These adjustments were made carefully, considering the original content, and aim to optimize the quality and comprehensibility of this work.
+\newpage
+
+% --- Table of Contents ---
+\tableofcontents
+\newpage
+
+% --- Main Content ---
 \section{Introduction}
-Hello, World! This is a test document to verify the LaTeX setup.
+Your introduction goes here. You can cite sources like this \parencite{dummy2026}.
+
+\section{Analysis}
+Your main analysis...
+
+\section{Conclusion}
+Summary of findings...
+
+% --- Bibliography ---
+\newpage
+\printbibliography
+
+% --- List of Figures & Glossary ---
+\newpage
+\listoffigures
+\newpage
+\printglossary[type=\acronymtype, title={List of Abbreviations}]
+
+% --- Appendix ---
+\newpage
+\appendix
+\section{Appendix Title}
+Any supplementary material (interviews, large tables, etc.) goes here.
 
 \end{document}
-

@@ -120,6 +120,7 @@ acs-*.bib
 *.gls
 *.gls-abr
 *.glsdefs
+*.ist
 *.lzo
 *.lzs
 *.slg
