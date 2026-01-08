@@ -15,6 +15,7 @@
 % --- Configuration ---
 \addbibresource{literature.bib} % Link bibliography file
 \onehalfspacing % 1.5 Line spacing (common for seminar papers)
+\setlength{\headheight}{15pt} % Fix fancyhdr warning
 \makeglossaries % Generate the glossary
 
 % --- Header and Footer Setup ---
@@ -71,12 +72,15 @@ In this work, artificial intelligence tools were used solely for grammatical err
 \newpage
 
 % --- Table of Contents ---
+\pagenumbering{roman} % Front matter uses roman numerals (i, ii...)
 \tableofcontents
 \newpage
 
 % --- Main Content ---
+\pagenumbering{arabic} % Main content starts at page 1
 \section{Introduction}
 Your introduction goes here. You can cite sources like this \parencite{dummy2026}.
+Here is an example usage of \gls{ux} and \gls{ai} to ensure the glossary appears.
 
 \section{Analysis}
 Your main analysis...
@@ -86,13 +90,14 @@ Summary of findings...
 
 % --- Bibliography ---
 \newpage
+\pagenumbering{Roman} % Back matter uses Uppercase Roman (I, II...)
 \printbibliography
 
 % --- List of Figures & Glossary ---
 \newpage
 \listoffigures
 \newpage
-\printglossary[type=\acronymtype, title={List of Abbreviations}]
+\printglossary[type=\acronymtype, title={Glossary}]
 
 % --- Appendix ---
 \newpage
