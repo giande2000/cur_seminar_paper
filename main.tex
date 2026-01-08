@@ -9,12 +9,26 @@
 \usepackage{csquotes} % Recommended for biblatex
 \usepackage[style=apa, backend=biber]{biblatex} % APA citations
 \usepackage[acronym, toc]{glossaries} % For glossary/abbreviations
+\usepackage{fancyhdr} % For custom headers and footers
 \usepackage[hidelinks]{hyperref} % Clickable links in TOC and citations
 
 % --- Configuration ---
 \addbibresource{literature.bib} % Link bibliography file
 \onehalfspacing % 1.5 Line spacing (common for seminar papers)
 \makeglossaries % Generate the glossary
+
+% --- Header and Footer Setup ---
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+\renewcommand{\headrulewidth}{0.4pt} % Thin line under header
+\renewcommand{\footrulewidth}{0.4pt} % Thin line over footer
+
+% Header
+\fancyhead[R]{\thepage} % Page number on top right
+
+% Footer
+\fancyfoot[L]{\small Gianluca Decaro} % Name on left
+\fancyfoot[R]{\small UXDM\_CUR} % Course ID on right
 
 % --- Glossary Entries (Example) ---
 \newacronym{ux}{UX}{User Experience}
@@ -39,6 +53,7 @@
     
     % Author
     {\Large\bfseries Gianluca Decaro \par}
+    {\large Matrikelnummer: 00121853 \par}
     \vfill
     
     % Professor and Date
