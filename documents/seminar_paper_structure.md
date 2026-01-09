@@ -20,6 +20,7 @@
 *   **Hook:** Open with the vignette of "Tom" (from your presentation) or a similar realistic scenario of a designer creating a "Zen" or "Indigenous-inspired" app. This grounds the abstract theory in a concrete UX reality.
 *   **Context:** Discuss the impact of globalization and the internet. Cite **Arya (2021)** on how digital ease increases the "urgency" of the appropriation issue.
 *   **Problem Statement:** UX design operates in a fast-paced, commercial environment often driven by aesthetics ("spice") and simplified user models. This creates a high risk for "unaware taking" that reinforces oppression.
+*   **Research Question:** Explicitly state the central question guiding the inquiry: *How can user experience (UX) designers ethically navigate the tension between cross-cultural inspiration and cultural appropriation to avoid perpetuating systemic oppression and commodification?*
 *   **Thesis Statement:** While cultural inspiration is a vital part of creativity, without a critical understanding of power dynamics and context, it risks becoming harmful appropriation. UX designers must move beyond superficial "borrowing" toward a **hermeneutic process of understanding** (Schneider) and **participatory design** to ensure ethical engagement.
 *   **Roadmap:** Briefly outline the progression of the paper (Definitions -> Ethical Framework -> UX Context -> Solutions -> Reflection).
 
@@ -57,30 +58,30 @@
     *   Argument: Designers have an expanded ethical obligation to both the *source culture* AND the *end user*.
 
 ### V. From Appropriation to Appreciation: A Framework for Designers (approx. 600 words)
-*   **The 3 Ps Framework:**
-    *   Synthesize the findings into the practical "3 Ps" model (adapted from **Kawasaki, 2022** and your presentation):
-        1.  **Power:** Checking privilege and historical context.
-        2.  **Profit:** Is this for commercial gain vs. cultural sustenance?
-        3.  **Participation:** Who is involved? (Han, 2019).
-*   **The Hermeneutic Procedure:**
-    *   Deepen the solution using **Schneider (2003)**.
-    *   Contrast "Taking" (appropriation) with "Understanding" (hermeneutics).
-    *   Explain that true appreciation requires "relinquishing ego" and allowing the "other" to transform the designer's self-understanding.
-*   **Participatory Design:**
-    *   Propose *Co-design* as the methodological fix (Vasalou et al., 2014). Involve source communities as *partners*, not just research subjects.
+*   **Defining the Goal: Appreciation vs. Appropriation:**
+    *   Use **Arya (2021)** and **Han (2019)** to distinguish the two. Define **Appreciation** not just as "liking" a culture, but as an active engagement that seeks *context*, honors *use value* (meaning), and involves *dialogue*. Contrast this with Appropriation (snapshot, exchange value, unauthorized taking).
+*   **The Practical Tool: The 3 Ps Framework:**
+    *   Introduce the "3 Ps" (adapted from **Kawasaki**) as the diagnostic tool designers can use to ensure they are practicing *Appreciation* rather than *Appropriation*:
+        1.  **Power:** Checking privilege. (Ensures the exchange isn't reinforcing oppression—refer back to Matthes).
+        2.  **Profit:** Checking the motive. (Ensures "Use Value" isn't stripped for "Exchange Value"—refer back to Arya/Commodifiction).
+        3.  **Participation:** Checking the agency. (Ensures "Dialogue"—refer back to Han).
+*   **The Method: Hermeneutics & Co-Design:**
+    *   Deepen the "Participation" aspect using **Schneider (2003)** and **Vasalou et al. (2014)**.
+    *   Argue that the only way to truly satisfy the "Participation" and "Power" checks is through **Participatory Design** (Co-design).
+    *   Explain **Schneider’s "Hermeneutic Procedure"**: This is the mindset shift from "taking" (ego-centric) to "understanding" (relinquishing ego) that makes ethical co-design possible.
 
-### VI. Reflection on Interactive Class Activity (approx. 400 words)
-*   **Context:** Briefly describe the interactive session where the class debated the boundaries of appropriation using the guiding questions.
+### VI. Reflection on Interactive Class Activity: Validating the Framework (approx. 400 words)
+*   **Context:** Frame the class discussion as a "reality check" for the theoretical arguments. Did the tensions identified in the literature (Shriver vs. Matthes) play out in a room of actual designers?
 *   **Theme 1: Rebutting the "Creativity Constraint" (Refuting Shriver):**
     *   *The Debate:* Address the "Artistic Freedom" counter-argument (Ch. III).
     *   *Student Insight:* One student effectively challenged Shriver’s fear of restriction by asking: *"If you can’t design good experiences... without appropriating or harming another culture, are you really a good designer?"*
-    *   *Analysis:* Connect this to the discussion on **clichés**. The class argued that relying on easy stereotypes (e.g., "stamping sombreros on anything") represents a *lack* of creativity, not the freedom of it. This provides a strong practitioner's rebuttal to the philosophical fear of restriction: ethical constraints actually demand higher quality, less "lazy" design.
+    *   *Analysis:* Use this to **validate** the rejection of the "Artistic Freedom" view. The class argued that relying on stereotypes (e.g., "stamping sombreros") represents a *lack* of creativity. This confirms that ethical constraints act as quality control, not censorship.
 *   **Theme 2: Power and "Refusing to Hear":**
     *   *Student Insight:* The discussion highlighted that *"You’re not celebrating a culture if you are refusing to hear a culture,"* and emphasized acknowledging the role of the "oppressor" culture.
-    *   *Analysis:* Link this back to **Matthes's Oppression Account** (Ch. III) and **Lenard & Balint's "Contested Context Condition"** (Ch. II). It reinforces the argument that appropriation is structurally harmful when it actively ignores the voices of the marginalized, validating the "Power" component of your 3 Ps framework.
+    *   *Analysis:* This confirms the practical relevance of **Matthes's Oppression Account** (Ch. III). The students' intuition aligned with the theoretical definition of harm, reinforcing that designers are aware of the power dynamics inherent in their work.
 *   **Theme 3: The Consensus on Co-Design:**
     *   *Student Insight:* Students argued that *"Just some interviews... may not be enough"* and suggested *"bringing the people on board while developing."*
-    *   *Analysis:* This perfectly validates the **Participatory Design** solution (Vasalou et al., Ch. V). The class intuitively concluded that avoiding appropriation requires moving beyond the designer as a solitary genius (like "Tom") to the designer as a collaborator. This connects the classroom sentiment directly to the paper’s final recommendation for "hermeneutic" engagement.
+    *   *Validation of Solution:* This serves as empirical support for the **Participatory Design** solution proposed in Chapter V. The fact that peers independently arrived at "participation" as the only viable fix demonstrates that the move from "Appropriation" to "Appreciation" is not just an academic ideal, but a practical necessity recognized by emerging practitioners.
 
 ### VII. Conclusion (approx. 300 words)
 *   **Recap:** Summarize that appropriation is a structural issue, not just an individual intention.
