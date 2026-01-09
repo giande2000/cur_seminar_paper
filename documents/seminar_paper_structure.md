@@ -68,12 +68,17 @@
     *   Propose *Co-design* as the methodological fix (Vasalou et al., 2014). Involve source communities as *partners*, not just research subjects.
 
 ### VI. Reflection on Interactive Class Activity (approx. 400 words)
-*   *Note: Since the specific results of the activity aren't in the notes, use this section to reflect on the discussion points you planned.*
-*   **Activity Description:** Briefly describe the discussion questions you posed (e.g., "Does avoiding all cultural references limit creativity?").
-*   **Reflection on Peer Feedback:**
-    *   Did the class struggle to draw the line between inspiration and appropriation?
-    *   Did they lean more towards "Shriver's artistic freedom" or "Matthes's oppression account"?
-    *   **Insight:** Reflect on how difficult it is for designers to accept constraints on creativity, but how the "3 Ps" helped clarify the ethical boundary.
+*   **Context:** Briefly describe the interactive session where the class debated the boundaries of appropriation using the guiding questions.
+*   **Theme 1: Rebutting the "Creativity Constraint" (Refuting Shriver):**
+    *   *The Debate:* Address the "Artistic Freedom" counter-argument (Ch. III).
+    *   *Student Insight:* One student effectively challenged Shriver’s fear of restriction by asking: *"If you can’t design good experiences... without appropriating or harming another culture, are you really a good designer?"*
+    *   *Analysis:* Connect this to the discussion on **clichés**. The class argued that relying on easy stereotypes (e.g., "stamping sombreros on anything") represents a *lack* of creativity, not the freedom of it. This provides a strong practitioner's rebuttal to the philosophical fear of restriction: ethical constraints actually demand higher quality, less "lazy" design.
+*   **Theme 2: Power and "Refusing to Hear":**
+    *   *Student Insight:* The discussion highlighted that *"You’re not celebrating a culture if you are refusing to hear a culture,"* and emphasized acknowledging the role of the "oppressor" culture.
+    *   *Analysis:* Link this back to **Matthes's Oppression Account** (Ch. III) and **Lenard & Balint's "Contested Context Condition"** (Ch. II). It reinforces the argument that appropriation is structurally harmful when it actively ignores the voices of the marginalized, validating the "Power" component of your 3 Ps framework.
+*   **Theme 3: The Consensus on Co-Design:**
+    *   *Student Insight:* Students argued that *"Just some interviews... may not be enough"* and suggested *"bringing the people on board while developing."*
+    *   *Analysis:* This perfectly validates the **Participatory Design** solution (Vasalou et al., Ch. V). The class intuitively concluded that avoiding appropriation requires moving beyond the designer as a solitary genius (like "Tom") to the designer as a collaborator. This connects the classroom sentiment directly to the paper’s final recommendation for "hermeneutic" engagement.
 
 ### VII. Conclusion (approx. 300 words)
 *   **Recap:** Summarize that appropriation is a structural issue, not just an individual intention.
