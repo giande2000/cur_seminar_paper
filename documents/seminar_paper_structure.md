@@ -41,8 +41,10 @@
     *   Cite **Schneider (2003)** on "stripping context"—removing the symbol from its web of meaning.
     *   **The Pizza Effect (Re-enculturation):** Explain **Arya’s (2021)** concept. Use the example of Western-designed Yoga/Wellness apps being sold back to the East. This is a crucial "Critical UX" insight—how design influences the source culture.
 *   **Counter-Arguments (Critical Reflection):**
-    *   Present the "Sceptical View" (**Lennard & Balint, 2020**) and the "Artistic Freedom" argument (**Lionel Shriver**). Acknowledge the fear of "policing imagination."
-    *   *Rebuttal:* Argue why Commercial UX Design differs from pure Fiction/Art. The *profit* motive and *functional* nature of UX make the "oppression account" more relevant than the "freedom" account.
+    *   **The Sceptical View:** Briefly mention the view that cultures always borrow (Lennard & Balint, 2020).
+    *   **The "Respectful Exchange" View (Young, 2010):** Introduce James O. Young’s philosophical argument that appropriation is not *inherently* wrong if proper acknowledgment is given. Use this to nuance the debate: unlike Shriver, he values respect, but like her, he warns that forbidding all borrowing "curtails creativity."
+    *   **The "Artistic Freedom" View (Shriver):** Contrast Young's academic stance with Shriver’s more aggressive argument against "policing imagination."
+    *   *Rebuttal:* Argue why Commercial UX Design differs from pure Fiction/Art. The *profit* motive and *functional* nature of UX make the "oppression account" (Matthes) more relevant than the "freedom" account.
 
 ### IV. Cultural Appropriation in UX Practice (approx. 700 words)
 *   **Visual & UI Design:**
