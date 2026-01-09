@@ -81,7 +81,7 @@
     *   *Analysis:* This confirms the practical relevance of **Matthes's Oppression Account** (Ch. III). The students' intuition aligned with the theoretical definition of harm, reinforcing that designers are aware of the power dynamics inherent in their work.
 *   **Theme 3: The Consensus on Co-Design:**
     *   *Student Insight:* Students argued that *"Just some interviews... may not be enough"* and suggested *"bringing the people on board while developing."*
-    *   *Validation of Solution:* This serves as empirical support for the **Participatory Design** solution proposed in Chapter V. The fact that peers independently arrived at "participation" as the only viable fix demonstrates that the move from "Appropriation" to "Appreciation" is not just an academic ideal, but a practical necessity recognized by emerging practitioners.
+    *   *Validation of Solution:* This serves as empirical support for the **Participatory Design** solution proposed in Chapter V. The fact that peers independently arrived at "participation" as the only viable fix demonstrates that the move from "Appropriation" to "Appreciation" is not just an academic ideal, but a practical necessity recognized by emerging practitioners.  (note that this discussion with the class was held before I presented ways of how designers can act).
 
 ### VII. Conclusion (approx. 300 words)
 *   **Recap:** Summarize that appropriation is a structural issue, not just an individual intention.
