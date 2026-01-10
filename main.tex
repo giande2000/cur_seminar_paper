@@ -12,6 +12,8 @@
 \usepackage{fancyhdr} % For custom headers and footers
 \usepackage[hidelinks]{hyperref} % Clickable links in TOC and citations
 \usepackage{microtype} % Improves character spacing and reduces "runts"
+\usepackage[titles]{tocloft} % Customizing TOC
+\renewcommand{\cftsecdotsep}{\cftdotsep} % Add dots for sections
 
 % --- Typographic Tweaks ---
 \widowpenalty=10000
@@ -188,11 +190,9 @@ Frameworks like the 3 Ps (Power, Profit, Participation) provide the necessary gu
 % --- Bibliography ---
 \newpage
 \pagenumbering{Roman} % Back matter uses Uppercase Roman (I, II...)
-\printbibliography
+\printbibliography[heading=bibintoc]
 
-% --- List of Figures & Glossary ---
-\newpage
-\listoffigures
+% --- Glossary ---
 \newpage
 \printglossary[type=\acronymtype, title={Glossary}]
 
