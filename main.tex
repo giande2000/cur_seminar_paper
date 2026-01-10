@@ -10,7 +10,17 @@
 \usepackage[style=apa, backend=biber]{biblatex} % APA citations
 \usepackage{fancyhdr} % For custom headers and footers
 \usepackage[hidelinks]{hyperref} % Clickable links in TOC and citations
-\usepackage[acronym, toc, nonumberlist]{glossaries} % For glossary/abbreviations
+\usepackage[acronym, toc, nonumberlist, nogroupskip]{glossaries} % For glossary/abbreviations
+\newglossarystyle{myglossary}{
+  \setglossarystyle{long}
+  \renewenvironment{theglossary}
+    {\begin{longtable}{@{}p{0.1\textwidth}p{0.85\textwidth}}}
+    {\end{longtable}}
+  \renewcommand*{\glossentry}[2]{
+    \bfseries\glstarget{##1}{\glossentryname{##1}} & \glossentrydesc{##1} \\[1.5ex]
+  }
+}
+\setglossarystyle{myglossary}
 \usepackage{microtype} % Improves character spacing and reduces "runts"
 \usepackage[titles]{tocloft} % Customizing TOC
 \renewcommand{\cftsecdotsep}{\cftdotsep} % Add dots for sections
