@@ -37,14 +37,6 @@
 → think about what theories support or weaken your argument
 2. Provide the reader with some **context**: why is this topic important?
     
-    <aside>
-    
-    Urgency of Cultural Appropriation (Arya 2021)
-    
-    Harms of Cultural Appropriation
-    
-    </aside>
-    
 3. Let the reader know how your argument is structured/**how you will address the
 research question**; this helps them follow how the arguments contribute to the
 conclusion.
